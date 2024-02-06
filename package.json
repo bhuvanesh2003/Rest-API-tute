@@ -1,0 +1,19 @@
+{
+  "name": "projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "assert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhuvanesh2003/Tool-Repurpose.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhuvanesh2003/Tool-Repurpose/issues"
+  },
+  "homepage": "https://github.com/bhuvanesh2003/Tool-Repurpose#readme"
+}
